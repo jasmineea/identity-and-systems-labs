@@ -244,38 +244,4 @@ Removing access for departing users is a critical identity security function, no
 
 ---
 
-## Documentation Artifacts
-This project should include the following supporting files:
 
-### Recommended Screenshots
-- users created in Microsoft Entra
-- group list
-- sample group membership
-- admin role assignment
-- onboarding example
-- offboarding example
-
-### Recommended Files
-- access matrix
-- simple environment diagram
-- notes on lessons learned
-
----
-
-## Suggested Folder Structure
-```text
-01-entra-user-lifecycle-rbac/
-├── README.md
-├── screenshots/
-│   ├── 01-users-created.png
-│   ├── 02-groups-created.png
-│   ├── 03-group-membership.png
-│   ├── 04-admin-role-assignment.png
-│   ├── 05-onboarding-example.png
-│   └── 06-offboarding-example.png
-├── diagrams/
-│   └── entra-access-model.png
-├── notes/
-│   └── implementation-notes.md
-└── artifacts/
-    └── access-matrix.md
