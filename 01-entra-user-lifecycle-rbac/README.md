@@ -242,6 +242,8 @@ Administrative roles were separated from normal employee access to reduce the ri
 ### Offboarding as a Security Control
 Removing access for departing users is a critical identity security function, not just an HR process.
 
+### Access Model Diagram
+![Entra Access Model](diagrams/entra-access-model.png)
 ---
 
 
