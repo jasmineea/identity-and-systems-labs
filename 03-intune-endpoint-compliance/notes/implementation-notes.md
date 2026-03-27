@@ -1,4 +1,3 @@
-```markdown
 # Implementation Notes
 
 ## Lab Summary
