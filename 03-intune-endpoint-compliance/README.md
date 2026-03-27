@@ -209,5 +209,9 @@ Assigning compliance and configuration policies to groups is easier to manage an
 ### Remediation Should Be Repeatable
 A noncompliant device should trigger a consistent response process, including review, correction, and revalidation.
 
+## Compliance Policy Flow Diagram
+
+![Intune Compliance Policy Flow](diagrams/intune-compliance-policy-flow.png)
+
 ---
 
