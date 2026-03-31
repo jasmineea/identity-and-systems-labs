@@ -1,10 +1,16 @@
 # Glossary
 
+## Access Review
+A governance process used to periodically confirm whether users still need assigned access to a group, role, or application.
+
 ## Active Directory (AD)
 Microsoft’s traditional on-premises directory service used to manage users, groups, computers, and policies in Windows environments.
 
 ## Administrative Role
 A built-in or custom role that grants elevated permissions to perform management tasks in a system.
+
+## Change Request
+A documented proposal for making a controlled update to a system, process, or access configuration, including objective, risk, rollout, rollback, and validation details.
 
 ## Conditional Access
 A Microsoft Entra policy framework that evaluates signals such as user, device, location, or application and then applies access controls like requiring MFA or blocking access.
@@ -30,8 +36,14 @@ A Windows feature used in Active Directory environments to centrally manage and 
 ## Hybrid Identity
 An identity model where an organization uses both on-premises Active Directory and cloud-based identity services such as Microsoft Entra.
 
+## Identity Governance
+The policies, processes, and controls used to manage identity-related access in a structured, reviewable, and auditable way.
+
 ## Intune
 Microsoft’s cloud-based endpoint management platform used to manage devices, compliance, configuration, and application policies.
+
+## Joiner-Mover-Leaver (JML)
+A user lifecycle framework that defines how access is granted for new users, changed during role transitions, and removed during offboarding.
 
 ## Least Privilege
 A security principle that gives users only the minimum level of access needed to perform their job.
